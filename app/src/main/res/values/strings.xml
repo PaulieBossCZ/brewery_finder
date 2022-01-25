@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Brewery Finder</string>
+    <string name="btn_search">Search by name</string>
+    <string name="input_search">Search for breweries...</string>
+    <string name="btn_by_city">Search by city</string>
+    <string name="btn_by_name">Search by name</string>
+    <string name="btn_by_postal">Search by postal code</string>
+    <string name="text_or">OR</string>
+    <string name="title_activity_search_result">SearchResultActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="search_term">SEARCH RESULTS FOR:</string>
+</resources>
